@@ -264,11 +264,11 @@ img{
     top: 150px;
     bottom: 150px;
     row-gap: 2rem;
-    text-align:left;
+    text-align:justify;
     display:flex;
     flex-direction: column;
     justify-content:center;
-    width: 500px;
+    width: 800px;
     height: 500px;
 }
 .ex_subtitle{
