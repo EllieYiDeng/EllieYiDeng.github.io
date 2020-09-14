@@ -297,7 +297,7 @@ img{
 }
 
 
-/* ===== WORK =====*/
+/* ===== PROJECT =====*/
 .project_section{
     position: relative;
     top: 250px;
@@ -311,42 +311,6 @@ img{
     border-radius:.6rem;
     position: relative;
     overflow: hidden;
-
-}
-.work__container{
-  row-gap: 2rem;
-}
-.item-btn {
-    display: inline-block;
-    border-radius: 2em;
-    padding:.2em .7em .1em .5em;
-    background: 0 0;
-    font-size: .8rem;
-    cursor: pointer;
-    font-weight: 400;
-    margin: 0 .4em 0 -.5em;
-    transition: all .2s;
-    text-decoration: none;
-}
-
-/* ===== CONTACT =====*/
-.contact__input{
-  width: 100%;
-  font-size: var(--normal-font-size);
-  font-weight: var(--font-semi);
-  padding: 1rem;
-  border-radius: .5rem;
-  border: 1.5px solid var(--second-color);
-  outline: none;
-  margin-bottom: var(--mb-4);
-}
-.contact__button{
-  display: block;
-  border: none;
-  outline: none;
-  font-size: var(--normal-font-size);
-  cursor: pointer;
-  margin-left: auto;
 }
 
 /* ===== FOOTER =====*/
